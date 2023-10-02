@@ -1,6 +1,6 @@
 # Cloud-Cover-Detection
 
-Problem Statement : Cloud Cover Detection
+**Problem Statement:** Cloud Cover Detection   
 Create a Vision Transformer (ViT) based model capable of accurately identifying and
 effectively masking clouds in multispectral satellite imagery, per pixel. These models
 should significantly elevate the quality of input data for Earth surface analysis,
